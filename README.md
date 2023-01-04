@@ -1,3 +1,3 @@
-# Calculadora Html, CSS & JS 
+# Calculadora Html, CSS & JS (con animaciones)
 
 
